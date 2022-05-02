@@ -1,0 +1,13 @@
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\PowerGeneratorStats.exe.config
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\PowerGeneratorStats.exe
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\PowerGeneratorStats.pdb
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\log4net.dll
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\log4net.xml
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.csproj.CoreCompileInputs.cache
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.csproj.CopyComplete
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.exe
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.pdb
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\PowerGeneratorStats.exe.manifest
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\bin\Release\PowerGeneratorStats.application
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.exe.manifest
+C:\Projects\BradysCodeChallenge\BradysCodeChallenge\PowerGeneratorStats\obj\Release\PowerGeneratorStats.application
