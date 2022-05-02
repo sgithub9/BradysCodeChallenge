@@ -1,0 +1,10 @@
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\bin\Debug\PowerGeneratorStats.exe.config
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\bin\Debug\PowerGeneratorStats.exe
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\bin\Debug\PowerGeneratorStats.pdb
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\bin\Debug\log4net.dll
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\bin\Debug\log4net.xml
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\obj\Debug\PowerGeneratorStats.csproj.CoreCompileInputs.cache
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\obj\Debug\PowerGeneratorStats.csproj.CopyComplete
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\obj\Debug\PowerGeneratorStats.exe
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\obj\Debug\PowerGeneratorStats.pdb
+C:\Users\homepc\source\repos\PowerGeneratorStats\PowerGeneratorStats\obj\Debug\PowerGeneratorStats.csprojAssemblyReference.cache

@@ -1,0 +1,297 @@
+2022-04-29 01:49:00,760 [1] INFO  PowerGeneratorStatsLog Info message
+2022-04-29 01:49:00,852 [1] ERROR PowerGeneratorStatsLog Error message
+2022-04-29 01:50:21,202 [1] INFO  PowerGeneratorStatsLog Info message
+2022-04-29 01:50:21,246 [1] ERROR PowerGeneratorStatsLog Error message
+2022-04-29 16:23:27,081 [1] INFO  PowerGeneratorStatsLog Info message
+2022-04-29 16:23:27,121 [1] ERROR PowerGeneratorStatsLog Error message
+2022-04-29 16:23:27,141 [1] FATAL PowerGeneratorStatsLog Fatal message
+2022-04-29 16:23:56,517 [1] INFO  PowerGeneratorStatsLog Info message
+2022-04-29 16:23:56,557 [1] ERROR PowerGeneratorStatsLog Error message
+2022-04-29 16:23:56,577 [1] FATAL PowerGeneratorStatsLog Fatal message
+2022-04-29 16:24:47,700 [1] INFO  Info message
+2022-04-29 16:24:47,732 [1] ERROR Error message
+2022-04-29 16:24:47,737 [1] FATAL Fatal message
+2022-04-29 16:34:58,637 [1] INFO  Info message
+2022-04-29 16:34:58,672 [1] ERROR Error message
+2022-04-29 16:34:58,695 [1] FATAL Fatal message
+2022-04-29 16:35:37,998 [1] INFO  Info message
+2022-04-29 16:35:38,026 [1] ERROR Error message
+2022-04-29 16:35:38,031 [1] FATAL Fatal message
+2022-04-29 16:37:41,051 [1] ERROR Error message
+2022-04-29 16:37:41,125 [1] FATAL Fatal message
+2022-04-29 16:39:34,761 [1] ERROR Error message
+2022-04-29 16:39:34,817 [1] FATAL Fatal message
+2022-04-29 16:45:37,111 [1] ERROR Error message
+2022-04-29 16:45:37,875 [1] FATAL Fatal message
+2022-04-29 16:58:13,688 [1] ERROR Error message
+2022-04-29 16:58:13,723 [1] FATAL Fatal message
+2022-04-29 16:59:22,323 [1] INFO  Info message
+2022-04-29 16:59:22,358 [1] ERROR Error message
+2022-04-29 16:59:22,371 [1] FATAL Fatal message
+2022-04-29 17:02:45,278 [1] ERROR Error message
+2022-04-29 17:02:45,301 [1] FATAL Fatal message
+2022-04-29 17:03:43,089 [1] INFO  Info message
+2022-04-29 17:03:43,159 [1] ERROR Error message
+2022-04-29 17:03:43,169 [1] FATAL Fatal message
+2022-04-29 20:36:58,942 [1] INFO  Info message
+2022-04-29 20:36:59,012 [1] ERROR Error message
+2022-04-29 20:36:59,032 [1] FATAL Fatal message
+2022-04-29 20:37:48,670 [1] INFO  Info message
+2022-04-29 20:37:48,743 [1] ERROR Error message
+2022-04-29 20:37:48,784 [1] FATAL Fatal message
+2022-04-29 20:38:58,027 [1] INFO  Info message
+2022-04-29 20:38:58,063 [1] ERROR Error message
+2022-04-29 20:38:58,070 [1] FATAL Fatal message
+2022-04-29 20:40:56,969 [1] INFO  Info message
+2022-04-29 20:40:57,005 [1] ERROR Error message
+2022-04-29 20:40:57,011 [1] FATAL Fatal message
+2022-04-29 20:41:11,033 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 20:54:59,487 [1] INFO  Info message
+2022-04-29 20:54:59,546 [1] ERROR Error message
+2022-04-29 20:54:59,559 [1] FATAL Fatal message
+2022-04-29 20:55:16,053 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 20:58:43,151 [1] INFO  Info message
+2022-04-29 20:58:43,202 [1] ERROR Error message
+2022-04-29 20:58:43,211 [1] FATAL Fatal message
+2022-04-29 20:58:54,599 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 21:34:43,896 [1] INFO  Info message
+2022-04-29 21:34:43,948 [1] ERROR Error message
+2022-04-29 21:34:43,960 [1] FATAL Fatal message
+2022-04-29 21:34:56,285 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 21:36:38,252 [1] INFO  Info message
+2022-04-29 21:36:38,307 [1] ERROR Error message
+2022-04-29 21:36:38,319 [1] FATAL Fatal message
+2022-04-29 21:36:45,357 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 21:37:52,470 [1] INFO  Info message
+2022-04-29 21:37:52,527 [1] ERROR Error message
+2022-04-29 21:37:52,551 [1] FATAL Fatal message
+2022-04-29 21:37:57,413 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 21:39:47,243 [1] INFO  Info message
+2022-04-29 21:39:47,269 [1] ERROR Error message
+2022-04-29 21:39:47,275 [1] FATAL Fatal message
+2022-04-29 21:40:00,387 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:03:51,960 [1] INFO  Info message
+2022-04-29 22:03:52,001 [1] ERROR Error message
+2022-04-29 22:03:52,009 [1] FATAL Fatal message
+2022-04-29 22:04:00,945 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:04:15,032 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:22:10,087 [1] INFO  Info message
+2022-04-29 22:22:10,117 [1] ERROR Error message
+2022-04-29 22:22:10,123 [1] FATAL Fatal message
+2022-04-29 22:22:31,218 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:24:05,747 [1] INFO  Info message
+2022-04-29 22:24:05,795 [1] ERROR Error message
+2022-04-29 22:24:05,805 [1] FATAL Fatal message
+2022-04-29 22:24:12,058 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:24:25,421 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:24:48,078 [1] INFO  Info message
+2022-04-29 22:24:48,118 [1] ERROR Error message
+2022-04-29 22:24:48,127 [1] FATAL Fatal message
+2022-04-29 22:24:54,628 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:25:26,523 [5] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:25:38,032 [6] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:25:48,230 [6] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:31:20,719 [1] INFO  Info message
+2022-04-29 22:31:20,758 [1] ERROR Error message
+2022-04-29 22:31:20,765 [1] FATAL Fatal message
+2022-04-29 22:31:28,180 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:32:18,945 [1] INFO  Info message
+2022-04-29 22:32:18,983 [1] ERROR Error message
+2022-04-29 22:32:18,990 [1] FATAL Fatal message
+2022-04-29 22:32:25,114 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:32:32,403 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-29 22:32:40,497 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 00:02:59,868 [1] INFO  Info message
+2022-04-30 00:02:59,924 [1] ERROR Error message
+2022-04-30 00:02:59,935 [1] FATAL Fatal message
+2022-04-30 00:03:17,238 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 00:09:06,471 [1] INFO  Info message
+2022-04-30 00:09:06,526 [1] ERROR Error message
+2022-04-30 00:09:06,537 [1] FATAL Fatal message
+2022-04-30 00:13:11,060 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 00:13:11,120 [1] INFO  Info message
+2022-04-30 00:13:11,140 [1] ERROR Error message
+2022-04-30 00:13:11,150 [1] FATAL Fatal message
+2022-04-30 12:06:21,251 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 12:06:23,103 [1] INFO  Info message
+2022-04-30 12:06:23,163 [1] ERROR Error message
+2022-04-30 12:06:23,193 [1] FATAL Fatal message
+2022-04-30 12:07:24,141 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 12:07:38,795 [1] INFO  Info message
+2022-04-30 12:07:38,835 [1] ERROR Error message
+2022-04-30 12:07:38,855 [1] FATAL Fatal message
+2022-04-30 12:50:45,931 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-04-30 17:40:25,189 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 00:04:53,790 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:21:10,307 [1] INFO  File system monitoring started.
+2022-05-01 17:21:10,307 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:22:44,830 [1] INFO  File system monitoring started.
+2022-05-01 17:22:49,748 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:23:24,565 [3] FATAL The file - 01-Basic.xml was not found at the location - C:\Input. Error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:24:37,360 [1] INFO  File system monitoring started.
+2022-05-01 17:24:45,960 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:25:29,212 [1] INFO  File system monitoring started.
+2022-05-01 17:25:38,902 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:27:36,268 [1] INFO  File system monitoring started.
+2022-05-01 17:27:43,128 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:27:57,381 [3] FATAL The file - 01-Basic.xml was not found at the location - C:\Input. Error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:31:35,688 [1] INFO  File system monitoring started.
+2022-05-01 17:31:41,040 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:31:49,481 [3] FATAL The file - 01-Basic.xml was not found at the location - C:\Input. Error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:31:49,521 [3] FATAL Could not process file due to error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:31:52,200 [4] FATAL The file - 01-Basic.xml was not found at the location - C:\Input. Error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:31:52,280 [4] FATAL Could not process file due to error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:32:03,053 [4] FATAL The file - 01-Basic.xml was not found at the location - C:\Input. Error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:32:08,867 [4] FATAL Could not process file due to error - Could not find file 'C:\Input\01-Basic.xml'.
+2022-05-01 17:32:46,502 [1] INFO  File system monitoring started.
+2022-05-01 17:34:10,092 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 17:57:12,012 [1] INFO  File system monitoring started.
+2022-05-01 18:04:36,558 [1] INFO  File system monitoring started.
+2022-05-01 18:06:26,206 [5] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 18:10:48,684 [1] INFO  File system monitoring started.
+2022-05-01 19:32:22,791 [1] INFO  File system monitoring started.
+2022-05-01 19:32:42,191 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:34:18,977 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:34:53,714 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:35:13,248 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:35:32,325 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:36:18,792 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:36:26,990 [1] FATAL There was an exception - Object reference not set to an instance of an object.
+2022-05-01 19:38:30,491 [1] INFO  File system monitoring started.
+2022-05-01 19:38:45,239 [4] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 19:38:55,449 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:39:22,078 [6] FATAL There was an exception in processXML method. Error - The process cannot access the file 'C:\Input\01-Basic.xml' because it is being used by another process.
+2022-05-01 19:39:22,128 [6] FATAL Could not process file due to error - The process cannot access the file 'C:\Input\01-Basic.xml' because it is being used by another process.
+2022-05-01 19:40:41,774 [1] INFO  File system monitoring started.
+2022-05-01 19:40:47,068 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:41:49,179 [1] INFO  File system monitoring started.
+2022-05-01 19:41:57,749 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 19:42:07,639 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:44:49,139 [1] INFO  File system monitoring started.
+2022-05-01 19:44:55,332 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 19:45:12,282 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:50:54,722 [1] INFO  File system monitoring started.
+2022-05-01 19:50:57,342 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 19:51:02,352 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 19:52:21,889 [1] INFO  File system monitoring started.
+2022-05-01 19:52:26,654 [3] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 22:40:12,976 [1] INFO  File system monitoring started.
+2022-05-01 22:40:19,659 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 22:40:28,929 [4] INFO  Created: C:\Input\01-Basic.xml
+2022-05-01 23:59:45,314 [1] INFO  File system monitoring started.
+2022-05-01 23:59:48,611 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-01 23:59:53,501 [4] INFO  Input file Created. Processing and outputting the result now.
+2022-05-01 23:59:53,981 [4] FATAL Could not process file due to error - Object reference not set to an instance of an object.
+2022-05-02 00:00:23,208 [1] INFO  File system monitoring started.
+2022-05-02 00:00:27,036 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:00:27,256 [3] FATAL Could not process file due to error - Object reference not set to an instance of an object.
+2022-05-02 00:01:10,744 [1] INFO  File system monitoring started.
+2022-05-02 00:01:15,235 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:01:44,207 [3] FATAL Could not process file due to error - Object reference not set to an instance of an object.
+2022-05-02 00:03:01,193 [1] INFO  File system monitoring started.
+2022-05-02 00:03:06,183 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:03:45,075 [1] INFO  File system monitoring started.
+2022-05-02 00:03:52,422 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:05:28,860 [1] INFO  File system monitoring started.
+2022-05-02 00:05:30,946 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:07:29,171 [1] INFO  File system monitoring started.
+2022-05-02 00:07:31,265 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:07:42,111 [3] FATAL Could not process file due to error - Object reference not set to an instance of an object.
+2022-05-02 00:11:26,389 [1] INFO  File system monitoring started.
+2022-05-02 00:11:28,096 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:11:33,276 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:13:00,997 [1] INFO  File system monitoring started.
+2022-05-02 00:13:01,549 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:13:05,821 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:15:48,810 [1] INFO  File system monitoring started.
+2022-05-02 00:15:50,709 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:15:54,519 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:23:02,288 [1] INFO  File system monitoring started.
+2022-05-02 00:23:04,708 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:23:09,008 [4] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 00:27:46,737 [1] INFO  File system monitoring started.
+2022-05-02 00:27:49,982 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 00:27:56,892 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:27:48,576 [1] INFO  File system monitoring started.
+2022-05-02 06:28:20,290 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:28:20,820 [3] FATAL Could not process file due to error - Object reference not set to an instance of an object.
+2022-05-02 06:29:20,465 [1] INFO  File system monitoring started.
+2022-05-02 06:29:23,887 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 06:29:29,747 [4] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:31:14,180 [1] INFO  File system monitoring started.
+2022-05-02 06:31:18,376 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:35:02,435 [1] INFO  File system monitoring started.
+2022-05-02 06:35:05,774 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:37:24,442 [1] INFO  File system monitoring started.
+2022-05-02 06:37:27,967 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 06:41:49,729 [1] INFO  File system monitoring started.
+2022-05-02 06:41:54,756 [3] INFO  Input file Created. Processing and outputting the result now.
+2022-05-02 07:10:08,341 [1] INFO  File system monitoring started.
+2022-05-02 07:10:16,545 [4] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 07:10:24,950 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 07:11:44,954 [1] INFO  File system monitoring started.
+2022-05-02 07:11:47,641 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 07:11:53,591 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 16:38:45,849 [1] INFO  File system monitoring started.
+2022-05-02 16:38:52,001 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 16:38:52,651 [3] FATAL Could not process file due to error - Unable to cast object of type 'DataClasses.Output.MaxEmissionGenerators' to type 'System.Collections.Generic.IList`1[DataClasses.Output.Day]'.
+2022-05-02 16:39:34,707 [1] INFO  File system monitoring started.
+2022-05-02 16:39:37,010 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 16:39:46,020 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 16:59:46,242 [1] INFO  File system monitoring started.
+2022-05-02 16:59:50,380 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 16:59:50,570 [3] FATAL Could not process file due to error - Unable to cast object of type 'System.Linq.OrderedEnumerable`2[DataClasses.Output.Day,System.Double]' to type 'DataClasses.Output.MaxEmissionGenerators'.
+2022-05-02 17:07:08,127 [1] INFO  File system monitoring started.
+2022-05-02 17:07:10,382 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 17:07:44,825 [1] INFO  File system monitoring started.
+2022-05-02 17:07:47,389 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 17:08:05,773 [1] INFO  File system monitoring started.
+2022-05-02 17:08:07,119 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 17:40:43,545 [1] INFO  File system monitoring started.
+2022-05-02 17:40:46,620 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 18:40:43,442 [1] INFO  File system monitoring started.
+2022-05-02 18:40:46,055 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 18:40:50,226 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 18:41:38,573 [1] INFO  File system monitoring started.
+2022-05-02 18:41:40,247 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 18:41:44,816 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 18:48:00,633 [1] INFO  File system monitoring started.
+2022-05-02 18:48:02,550 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 18:53:48,972 [1] INFO  File system monitoring started.
+2022-05-02 18:53:50,607 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 18:53:53,957 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 18:55:57,079 [1] INFO  File system monitoring started.
+2022-05-02 18:56:00,508 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:02:49,693 [1] INFO  File system monitoring started.
+2022-05-02 19:02:52,803 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:11:16,279 [1] INFO  File system monitoring started.
+2022-05-02 19:11:18,630 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:13:46,659 [1] INFO  File system monitoring started.
+2022-05-02 19:13:49,476 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:34:57,168 [1] INFO  File system monitoring started.
+2022-05-02 19:34:59,086 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:40:48,893 [1] INFO  File system monitoring started.
+2022-05-02 19:40:52,114 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:41:49,733 [1] INFO  File system monitoring started.
+2022-05-02 19:41:54,735 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:43:44,631 [1] INFO  File system monitoring started.
+2022-05-02 19:43:48,312 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:54:35,771 [1] INFO  File system monitoring started.
+2022-05-02 19:54:37,291 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 19:57:57,450 [1] INFO  File system monitoring started.
+2022-05-02 19:58:02,991 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 20:22:08,638 [1] INFO  File system monitoring started.
+2022-05-02 20:22:18,741 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 20:28:55,676 [1] INFO  File system monitoring started.
+2022-05-02 20:29:01,887 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 20:35:03,694 [1] INFO  File system monitoring started.
+2022-05-02 20:35:12,552 [3] INFO  Deleted: C:\Input\01-Basic.xml
+2022-05-02 20:35:14,122 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 20:35:14,554 [3] FATAL There was an exception in processXML method. Error - There is an error in XML document (10, 12).
+2022-05-02 20:35:14,584 [3] FATAL Could not process file due to error - There is an error in XML document (10, 12).
+2022-05-02 20:42:41,342 [1] INFO  File system monitoring started.
+2022-05-02 20:42:47,281 [3] INFO  Input file Created. Processing and generating the result now.
+2022-05-02 20:42:47,749 [3] FATAL There was an exception in processXML method. Error - There is an error in XML document (10, 12).
+2022-05-02 20:42:47,760 [3] FATAL A notification email has been sent to the user - user@brady.com
+2022-05-02 20:42:47,799 [3] FATAL Could not process file due to error - There is an error in XML document (10, 12).
+2022-05-02 20:42:47,810 [3] FATAL A notification email has been sent to the user - user@brady.com
